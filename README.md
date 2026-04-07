@@ -53,7 +53,7 @@ Focused on **contextual language application** rather than rote memorization:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/echoes-of-the-abyss.git
+git clone https://github.com/J-ToTHe-J/echoes-of-the-abyss-v0.8.git
 ```
 
 ### 2. Requirements
