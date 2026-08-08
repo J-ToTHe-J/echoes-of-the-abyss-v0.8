@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Echoes_of_the_Abyss.sln"
+    "dotnet.defaultSolution": "echoes-of-the-abyss-v0.8-main.sln"
 }
