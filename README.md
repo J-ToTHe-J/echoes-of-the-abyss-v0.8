@@ -15,7 +15,6 @@ The core loop balances platforming with educational gates:
 
 - **Labyrinth Trials** — Navigation through segmented manor corridors
 - **MCQ Seals** — Interaction with Memory Altars triggers EFL challenges to unlock paths
-- **Visual Feedback** — Correct responses dynamically update scene lighting and color; errors maintain a low-visibility state
 - **Narrative Progression** — Successful challenges unlock story fragments, tying grammatical proficiency to world-building
 
 
